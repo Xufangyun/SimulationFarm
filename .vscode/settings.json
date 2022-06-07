@@ -1,0 +1,4 @@
+{
+    "csharp.referencesCodeLens.enabled": true,
+    "diffEditor.codeLens": false
+}
